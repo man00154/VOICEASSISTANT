@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+audio.mp3
+audio_response.mp3
 
 # Distribution / packaging
 .Python
